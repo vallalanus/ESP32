@@ -1,1 +1,2 @@
-//npm.pkg.github.com/:_authToken=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
+//npm.pkg.github.com/:_authToken=${NODE_AUTH_TOKEN}
+registry=https://npm.pkg.github.com/vallalanus
