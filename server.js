@@ -5,7 +5,7 @@ const Inverter = require('./models/Inverter');
 require('dotenv').config();
 const cors = require('cors')//
 const app = express();
-const port = 3000;
+const port = 3001;
 const MongoClient = require('mongodb').MongoClient;
 const MONGODB_URL = process.env.MONGODB_URL;
 const PORT = process.env.PORT || 6001;
